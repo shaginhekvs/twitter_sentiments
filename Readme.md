@@ -1,6 +1,6 @@
 
 Before going any further, please first start download of the data folder from the google drive link (1) here or the switch drive link (2)after that. 
-For switch, the password is 'iloveml' withought the single quotes : 
+For switch, the password is '' withought the single quotes : 
 1. request the author
 2. request the author
 
